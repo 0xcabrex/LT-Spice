@@ -15,3 +15,5 @@ chmod +x install_ltspice.sh
 Ltspice will automatically spool up. It will go through initialisation phase. If it asks for updaing then update it.
 
 To directly run LT Spice on your system after installation is complete, run `./ltspice.sh` in the repository directory.
+
+If you wish to uninstall LTspice, run `wine uninstaller` in the terminal, select `LTSPICE` and choose `Modify/Remove`.
